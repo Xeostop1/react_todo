@@ -1,0 +1,17 @@
+/* 버튼세팅 */
+.MyButton{
+  
+}
+
+.MyButton_check{
+  background-color:orange;
+  width: 180px;
+}
+.MyButton_checked{
+  background-color:red;
+}
+
+/* ====todoList===== */
+.toDolist >ul, li{
+  list-style: none;
+}
