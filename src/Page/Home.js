@@ -7,7 +7,7 @@ import TodoItem from "../component/TodoItem";
 
 const Home=()=>{
     const [data, setData]=useState();
- const onSubmit=(e)=>{
+    const onSubmit=(e)=>{
     e.preventDefault();
     //  if(content===""){
     //    console.log("리스트를 작성해주세요");
